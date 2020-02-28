@@ -1,0 +1,42 @@
+.main{
+    background: url('../img/bg-red.jpg');
+}
+
+.principal{
+    background:  rgba(144, 0, 0, 0.43);
+}
+
+.fixed-right{
+    background: rgba(144, 0, 0, 0.43);
+}
+
+.up{
+   background: rgba(144, 0, 0, 0.43);
+ }
+
+#identificate{
+    background: rgba(144, 0, 0, 0.43);
+}
+
+.form-control{
+    background: rgba(255,255,255,0.3);
+    border-radius:0rem;
+}
+
+.alerts-container{
+    top:100px;
+    left:20px;
+}
+
+.bg-dark{
+    background:#c50808!important;
+}
+
+.btn-secondary{
+    background: #a71510!important;
+    border: none!important;
+}
+
+
+
+
